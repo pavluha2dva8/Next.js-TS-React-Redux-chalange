@@ -7,3 +7,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## run client
 ### npm run dev
+
+Project has been successfully deployed! Visit:
+https://next-js-ts-react-redux-chalange.vercel.app/
